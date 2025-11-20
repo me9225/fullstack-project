@@ -24,6 +24,7 @@ const Start =()=>{
 
     return(
         <>
+        <h1>hello</h1>
         <div className='flex-column'>
             {/* <h1 className="text-center" style={{"color":"black" , "font-size":"1.5rem"}}>{m}</h1> */}
             <Skeleton className="mb-2 " height="50vh" >
@@ -48,6 +49,7 @@ const Start =()=>{
             </Skeleton>
 
         </div>
+
      </>
     )
 }
