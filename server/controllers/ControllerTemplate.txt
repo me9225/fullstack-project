@@ -1,0 +1,19 @@
+
+//model
+/////////////////////////////////////                   CRUD
+//read
+
+//create
+const addToBasket= async (req,res) =>
+{
+}
+//update
+const updateAmount = async (req,res)=>
+{
+}
+//delete
+const deleteFromBasket = async (req, res)=>
+{
+}
+
+module.exports = {getMyBasket,updateAmount,addToBasket,deleteFromBasket}
